@@ -16,6 +16,7 @@ desired_cap = {
     'platform': "Mac OS X 10.12",
     'browserName': "chrome",
     'version': "latest",
+    'tunnelIdentifier': "⛵",
 }
 username = os.environ['SAUCE_USERNAME']
 access_key = os.environ['SAUCE_ACCESS_KEY']
